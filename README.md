@@ -74,3 +74,19 @@ Link- https://github.com/brahmaiahpokuri/CSA0537-DBMS/commit/3abca5ca55dd661c58b
 
 <img width="607" alt="2023-01-21 (11)" src="https://user-images.githubusercontent.com/122426938/213877198-643b413d-5710-419e-9494-ed3471483f59.png">
 
+##Experiment-6-SELECT WITH VARIOUS CLAUSE-BETWEEN,IN,AGGREGATE FUNCTION 
+Link-https://github.com/brahmaiahpokuri/CSA0537-DBMS/commit/1df2a546eb15700a222e1eef56bb7fcbbbd0ade9
+
+<img width="611" alt="2023-01-21 (16)" src="https://user-images.githubusercontent.com/122426938/213877406-fe3a4d68-4c8e-42f4-826c-c5fd39ea725d.png">
+
+<img width="551" alt="2023-01-21 (17)" src="https://user-images.githubusercontent.com/122426938/213877545-3ce9dbc3-0a0b-483b-b672-1aa4ee1c1794.png">
+
+<img width="597" alt="2023-01-21 (18)" src="https://user-images.githubusercontent.com/122426938/213877603-f5b06316-f2c5-4908-bda3-d00cb482cf5a.png">
+
+8
+
+<img width="512" alt="2023-01-21 (19)" src="https://user-images.githubusercontent.com/122426938/213877676-a4fd91c5-00ca-48e1-a2f1-1fe84e4aa5be.png">
+
+10
+
+<img width="323" alt="2023-01-21 (20)" src="https://user-images.githubusercontent.com/122426938/213877726-afb8f952-ceca-4a0d-8aa8-4a02b50e3906.png">

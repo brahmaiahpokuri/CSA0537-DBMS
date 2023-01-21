@@ -90,3 +90,15 @@ Link-https://github.com/brahmaiahpokuri/CSA0537-DBMS/commit/1df2a546eb15700a222e
 10
 
 <img width="323" alt="2023-01-21 (20)" src="https://user-images.githubusercontent.com/122426938/213877726-afb8f952-ceca-4a0d-8aa8-4a02b50e3906.png">
+
+##Experiment-7-SELECT WITH VARIOUS CLAUSE-GROUP BY,HAVING,ORDER BY 
+Link- https://github.com/brahmaiahpokuri/CSA0537-DBMS/commit/d9098152a1232d13c5ef43a24223fb32fbef14e6
+
+<img width="596" alt="2023-01-21 (21)" src="https://user-images.githubusercontent.com/122426938/213877891-cb6abe47-630e-419a-bcc2-60bfda31cf73.png">
+
+<img width="621" alt="2023-01-21 (22)" src="https://user-images.githubusercontent.com/122426938/213877925-96ab11d6-4392-49af-80f8-44989f96dc3a.png">
+
+<img width="585" alt="2023-01-21 (23)" src="https://user-images.githubusercontent.com/122426938/213877983-295a36e3-f1a6-408b-a589-44038bdfff6a.png">
+
+<img width="573" alt="2023-01-21 (24)" src="https://user-images.githubusercontent.com/122426938/213878045-7775a136-9281-4132-8ede-472461f6bd8f.png">
+

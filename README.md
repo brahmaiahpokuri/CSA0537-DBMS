@@ -102,3 +102,122 @@ Link- https://github.com/brahmaiahpokuri/CSA0537-DBMS/commit/d9098152a1232d13c5e
 
 <img width="573" alt="2023-01-21 (24)" src="https://user-images.githubusercontent.com/122426938/213878045-7775a136-9281-4132-8ede-472461f6bd8f.png">
 
+##Experiment-8-SUB QUERY & CORRELATED QUERY
+Link- https://github.com/brahmaiahpokuri/CSA0537-DBMS/commit/a7a21f06df238c54ff796e5b46e5dd057f484a5a
+
+<img width="592" alt="2023-01-21 (25)" src="https://user-images.githubusercontent.com/122426938/213878194-3f10c876-6756-41d3-ac8a-90399d0cf55d.png">
+
+<img width="612" alt="2023-01-21 (26)" src="https://user-images.githubusercontent.com/122426938/213878231-b9a6353b-5067-435e-8319-2518329e894c.png">
+
+##Experiment-9-JOINS
+Link- https://github.com/brahmaiahpokuri/CSA0537-DBMS/commit/1bb7ee7ef62fafa17170a12bc37722a1aad40809
+
+<img width="613" alt="2023-01-21 (27)" src="https://user-images.githubusercontent.com/122426938/213878392-2e1db7ac-9d93-42bc-8b45-417b683fba58.png">
+
+##EXPERIMENT-10-VIEW,INDEX,SEQUENCE 
+link-https://github.com/brahmaiahpokuri/CSA0537-DBMS/commit/3653c86b7874ea3b99c58c4ffc6e48ea5b96c91d
+
+<img width="607" alt="2023-01-21 (28)" src="https://user-images.githubusercontent.com/122426938/213878489-c016e1ef-8cc1-4bbf-a852-de3d2428570a.png">
+
+##Experiment-11-SIMPLE PROGRAMMING EXERCISE USING(REPEAT,WHILE) 
+link- https://github.com/brahmaiahpokuri/CSA0537-DBMS/commit/02d7a62afd8a1a0e6ad11e1f56417e3e11d1f515
+
+<img width="520" alt="2023-01-21 (29)" src="https://user-images.githubusercontent.com/122426938/213878568-8cf94cb2-1c85-43a4-8d55-d9cb7a6263ab.png">
+
+2
+
+<img width="616" alt="2023-01-21 (30)" src="https://user-images.githubusercontent.com/122426938/213878604-0afafb8a-98e3-47b3-af6a-024e3bfed75c.png">
+
+##Experiment-12-SIMPLE PROGRAMMING EXERCISE USING (CASE AND LOOP)
+link- https://github.com/brahmaiahpokuri/CSA0537-DBMS/commit/f5dcdd7d27562c89a36eab3c0f7ca008a37c7721
+
+1
+
+<img width="447" alt="2023-01-21 (31)" src="https://user-images.githubusercontent.com/122426938/213878695-36392809-53a6-4443-a691-21c346479542.png">
+
+2
+
+<img width="447" alt="2023-01-21 (32)" src="https://user-images.githubusercontent.com/122426938/213878744-b56b3526-62a1-4699-a507-8d5294d9c748.png">
+
+##Experiment-13-TCL COMMANDS
+link- https://github.com/brahmaiahpokuri/CSA0537-DBMS/commit/44eb39245b57bb092096827d08c1d88a02c955d2
+
+<img width="438" alt="2023-01-21 (33)" src="https://user-images.githubusercontent.com/122426938/213878841-af58ef56-1829-4935-b74c-5190886c3b5c.png">
+
+##Experiment-14-DCL COMMANDS
+link- https://github.com/brahmaiahpokuri/CSA0537-DBMS/commit/eaf5c5bc663937a015d5ad6d382c511369da27c4
+
+<img width="507" alt="2023-01-21 (34)" src="https://user-images.githubusercontent.com/122426938/213878943-870521f0-0255-461c-89b7-5dc93bffae78.png">
+
+##Experiment-15-HIGH LEVEL PROGRAMMING EXTENSIONS(PROCEDURES) 
+link- https://github.com/brahmaiahpokuri/CSA0537-DBMS/commit/3fff5827bd409e7dad6e18a3b5c5390a4e3bd213
+
+<img width="617" alt="2023-01-21 (35)" src="https://user-images.githubusercontent.com/122426938/213879036-a49a2868-1c43-4675-bfd0-66babb4869f9.png">
+
+<img width="541" alt="2023-01-21 (36)" src="https://user-images.githubusercontent.com/122426938/213879070-2bcb2c69-302d-40f7-902a-2558ff261a19.png">
+
+##Experiment-16-HIGH LEVEL PROGRAMMING EXTENSIONS(FUNCTIONS)
+link- https://github.com/brahmaiahpokuri/CSA0537-DBMS/commit/d46157f8ad344ed3bc061ce78ae077ae4c105c34
+
+<img width="523" alt="2023-01-21 (37)" src="https://user-images.githubusercontent.com/122426938/213879155-dae93151-756a-40c2-bb7f-7831558d5184.png">
+
+<img width="488" alt="2023-01-21 (38)" src="https://user-images.githubusercontent.com/122426938/213879182-9fab7810-e14d-4f7c-a8e1-6c470fc703db.png">
+
+##Experiment-17-HIGH LEVEL LANGUAGE EXTENSIONS WITH CURSORS
+link- https://github.com/brahmaiahpokuri/CSA0537-DBMS/commit/55224f44eab01d7ab2e9ab661c6f62ab9afe91b8
+
+<img width="450" alt="2023-01-21 (39)" src="https://user-images.githubusercontent.com/122426938/213879232-a1e394b7-ceb6-4372-a249-9c09110fb2aa.png">
+
+##Experiment-18-TRIGGER
+link- https://github.com/brahmaiahpokuri/CSA0537-DBMS/commit/c2db3d58c6c361fea78d1d2ad7030fc93ccbfebb
+
+<img width="604" alt="2023-01-21 (40)" src="https://user-images.githubusercontent.com/122426938/213879311-8b4cda2c-e011-401a-9ad6-49b8c541ea71.png">
+
+##Experiment-19
+link- https://github.com/brahmaiahpokuri/CSA0537-DBMS/commit/14c7bf552f16f2fc930088019c82ddc9aa852520
+
+<img width="609" alt="2023-01-21 (41)" src="https://user-images.githubusercontent.com/122426938/213879394-d91c35a8-17ee-4f7d-91cc-668108b8b922.png">
+
+<img width="585" alt="2023-01-21 (42)" src="https://user-images.githubusercontent.com/122426938/213879415-aba503fe-317b-4bcb-8667-f5c33fa70e41.png">
+
+##Experiment-20
+link- https://github.com/brahmaiahpokuri/CSA0537-DBMS/commit/8c54c604f288a28af19abcbefea0be071d57c45c
+
+<img width="317" alt="2023-01-21 (43)" src="https://user-images.githubusercontent.com/122426938/213879487-0d8fd9b7-f980-4f7d-95e5-27b75fd7a645.png">
+
+##Experiment-21-CASE STUDY-1 
+link- https://github.com/brahmaiahpokuri/CSA0537-DBMS/commit/60840341b96d84a02dce83b13fab9a1a286aba67
+
+<img width="577" alt="2023-01-21 (44)" src="https://user-images.githubusercontent.com/122426938/213879859-03580888-a695-4c75-bd0f-0189ae49de25.png">
+
+<img width="611" alt="2023-01-21 (45)" src="https://user-images.githubusercontent.com/122426938/213879891-6cfefef3-2567-46ea-8c43-052598ebdbaa.png">
+
+##Experiment-22
+link- https://github.com/brahmaiahpokuri/CSA0537-DBMS/commit/29f64a0dbc25aa533f62e5629cfd8ee76b56e24d
+
+<img width="577" alt="2023-01-21 (46)" src="https://user-images.githubusercontent.com/122426938/213879948-68bd57ac-8506-432d-9ac5-63ee8b52c9e1.png">
+
+##Experiment-23
+link- https://github.com/brahmaiahpokuri/CSA0537-DBMS/commit/de55c11858d7c8a44474eb3d2fd403cf6241804d
+
+1
+
+<img width="442" alt="2023-01-21 (47)" src="https://user-images.githubusercontent.com/122426938/213880045-befc65a1-ed06-42c9-8899-fa1c7404ded5.png">
+
+<img width="458" alt="2023-01-21 (48)" src="https://user-images.githubusercontent.com/122426938/213880081-99aece92-0a44-4159-872a-31beab343305.png">
+
+##Experiment-24
+link- https://github.com/brahmaiahpokuri/CSA0537-DBMS/commit/68dd1a1976c122808b3d9926c2753272b9301a5c
+
+<img width="465" alt="2023-01-21 (49)" src="https://user-images.githubusercontent.com/122426938/213880174-72278214-919f-463c-a209-b502a51919b8.png">
+
+<img width="496" alt="2023-01-21 (50)" src="https://user-images.githubusercontent.com/122426938/213880193-e7b300a6-63f6-4030-b8ba-9d20caa45ce8.png">
+
+##Experiment-25
+link- https://github.com/brahmaiahpokuri/CSA0537-DBMS/commit/fa0f682acb678b0a66d7815590cb058a3933b852
+
+<img width="559" alt="2023-01-21 (51)" src="https://user-images.githubusercontent.com/122426938/213880255-e5b334f0-aefa-4eca-ac45-533e2c1e0489.png">
+
+<img width="564" alt="2023-01-21 (52)" src="https://user-images.githubusercontent.com/122426938/213880288-608635b3-c4d1-4f6d-9f5a-0253b5fe6265.png">
+
+<img width="532" alt="2023-01-21 (53)" src="https://user-images.githubusercontent.com/122426938/213880322-4191c667-8956-4ec0-a88c-c081b1a369c6.png">

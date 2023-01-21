@@ -30,3 +30,23 @@ Link-https://github.com/brahmaiahpokuri/CSA0537-DBMS/commit/18315a53540b62843b4c
 3
 
 <img width="427" alt="2023-01-21 (4)" src="https://user-images.githubusercontent.com/122426938/213875653-9f9c2f40-5f36-4ca9-b6d2-2347c4d857f5.png">
+
+##Experiment-3&4-DDL COMMANDS-INSERT,SELECT,UPDATE,DELETE
+
+Link-https://github.com/brahmaiahpokuri/CSA0537-DBMS/commit/090a1f48c301d9380337121da998c138b906a312
+
+1
+
+<img width="593" alt="2023-01-21 (12)" src="https://user-images.githubusercontent.com/122426938/213876002-81105841-1fa2-407c-9fda-0357e38df580.png">
+
+3
+
+<img width="496" alt="2023-01-21 (13)" src="https://user-images.githubusercontent.com/122426938/213876081-1fca69a6-7af5-4354-9712-ff6e7b09fa77.png">
+
+5
+
+<img width="598" alt="2023-01-21 (14)" src="https://user-images.githubusercontent.com/122426938/213876131-3c6e456d-20c2-4567-9d19-ec309e929da7.png">
+
+6
+
+<img width="603" alt="2023-01-21 (15)" src="https://user-images.githubusercontent.com/122426938/213876197-1966764d-fd84-44cb-9fd3-a5589c6e0ec5.png">

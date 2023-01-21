@@ -66,4 +66,11 @@ Link- https://github.com/brahmaiahpokuri/CSA0537-DBMS/commit/3abca5ca55dd661c58b
 
 <img width="590" alt="2023-01-21 (7)" src="https://user-images.githubusercontent.com/122426938/213876841-08c57741-b7a3-4117-88c2-80a7de88dd20.png">
 
+<img width="608" alt="2023-01-21 (8)" src="https://user-images.githubusercontent.com/122426938/213877030-33e123b7-9a4c-4223-bccb-a3c642283f41.png">
+
+<img width="604" alt="2023-01-21 (9)" src="https://user-images.githubusercontent.com/122426938/213877095-b28b2c87-037b-4d84-bb2d-fa2bf0fcaa3a.png">
+
+<img width="597" alt="2023-01-21 (10)" src="https://user-images.githubusercontent.com/122426938/213877141-2e3db09d-8b80-4f6e-8aa7-1e914687ab92.png">
+
+<img width="607" alt="2023-01-21 (11)" src="https://user-images.githubusercontent.com/122426938/213877198-643b413d-5710-419e-9494-ed3471483f59.png">
 

@@ -50,3 +50,19 @@ Link-https://github.com/brahmaiahpokuri/CSA0537-DBMS/commit/090a1f48c301d9380337
 6
 
 <img width="603" alt="2023-01-21 (15)" src="https://user-images.githubusercontent.com/122426938/213876197-1966764d-fd84-44cb-9fd3-a5589c6e0ec5.png">
+
+##Experiment-5-SELECT WITH VARIOUS CLAUSE-WHERE,PATTERN MATCHING
+Link- https://github.com/brahmaiahpokuri/CSA0537-DBMS/commit/3abca5ca55dd661c58bd4dd5ae83061bed4b87c1
+
+1
+
+<img width="299" alt="2023-01-21 (5)" src="https://user-images.githubusercontent.com/122426938/213876398-28619367-9dfd-45e2-ba93-6fc37cb68f29.png">
+
+2
+
+<img width="608" alt="2023-01-21 (6)" src="https://user-images.githubusercontent.com/122426938/213876467-9bb545c0-fabe-4596-94b1-87f30e035f07.png">
+
+3
+
+
+
